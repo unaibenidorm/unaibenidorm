@@ -29,6 +29,10 @@ I build native GNOME tools, dig into system internals, and work my way towards a
 
 ## 🚀 Featured Projects
 
+### 🚀 [Better Quick Settings (beQS)](https://github.com/unaibenidorm/beQS)
+
+**Better Quick Settings** is a GNOME Shell extension designed to turn the Quick Settings menu into a powerful, beautiful, and highly functional control center, while staying **native** to GNOME 49, 50 and newer.
+
 ### 🖥️ [GnomeVantage](https://github.com/unaibenidorm/GnomeVantage)
 
 > Control your Lenovo Legion / Ideapad hardware directly from GNOME Shell
