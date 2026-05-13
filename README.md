@@ -29,9 +29,19 @@ I build native GNOME tools, dig into system internals, and work my way towards a
 
 ## 🚀 Featured Projects
 
+### 🎨 [Gnome Theme Manager](https://github.com/unaibenidorm/Gnome-Theme-Manager)
+
+> The missing theme store for GNOME on Linux
+
+A native GTK4/Libadwaita desktop application that allows you to easily browse, install, and hot-apply **GTK, Shell, Icons, GDM, GRUB, and Plymouth** themes straight from gnome-look.org without touching the terminal or moving files manually.
+
+---
+
 ### 🚀 [Better Quick Settings (beQS)](https://github.com/unaibenidorm/beQS)
 
 **Better Quick Settings** is a GNOME Shell extension designed to turn the Quick Settings menu into a powerful, beautiful, and highly functional control center, while staying **native** to GNOME 49, 50 and newer.
+
+---
 
 ### 🖥️ [GnomeVantage](https://github.com/unaibenidorm/GnomeVantage)
 
